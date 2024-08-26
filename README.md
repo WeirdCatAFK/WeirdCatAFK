@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a student on software engineering on Mexico
+I'm a student on software engineering from Mexico
 
 ## 🛠️ Skills
 
