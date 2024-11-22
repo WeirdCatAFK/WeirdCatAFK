@@ -17,7 +17,7 @@ Here are a few notable projects I've worked on while on Uni:
    - [Go to Common Kitchen Waste clasificator](https://github.com/WeirdCatAFK/R_commonKitchenWasteClasificator)
 2. **[PinFix for X]**: [A chrome extension that fixes the pinterest save button so it correctly links images from x.com ]
    - [Go to PinFix for X](https://github.com/WeirdCatAFK/PinFix)
-3. **[FlashBack (working on it, still on early development)]**: [A workspace to evaluate and create documents for long term memorization and concept connection]
+3. **[FlashBack (Still on early development, but you can check the repo out)]**: [A workspace to evaluate and create documents for long term memorization and concept connection]
    - [Go to FlashBack](https://github.com/WeirdCatAFK/Flashback)
 
 ## 📫 Contact
