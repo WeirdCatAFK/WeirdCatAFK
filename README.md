@@ -16,6 +16,8 @@ Here are a few notable projects I've worked on while on Uni:
    - [Go to FlashBack](https://github.com/WeirdCatAFK/Flashback)
 2. **[PinFix for X]**: [A chrome extension that fixes the pinterest save button so it correctly links images from x.com ]
    - [Go to PinFix for X](https://github.com/WeirdCatAFK/PinFix)
+3. **[Artsy]**: [A bunch of art stuff for art nerds like me (enfasis on nerds)]
+   - [Artsy](https://weirdcatafk.github.io/artsy/)
 
 
 ## 📫 Contact
