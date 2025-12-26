@@ -1,29 +1,41 @@
-# Hi there, I'm Daniel Pineda 👋
 
-I'm a software engineering student from Mexico, aiming to become a data scientist, game maker at heart. Fascinated by learning, our brains and systems. On the end of the road there is only complexity.
+# Daniel Pineda Torres
 
-## 🛠️ Current skills
+**Software Engineering Student | Aspiring Data Scientist**
 
-- **Languages**: Python, Javascript, C++, Java, Matlab, R
-- **Frameworks**: React, Express, Electron, Vite, Next.js, 
-- **Other Skills**: SQL, SQLite, MariaDB, MongoDB, 
+I am a developer focused on building scalable systems and analyzing complex data structures fascinated on learning, our brains and systems. On the end of the road there is only complexity.
 
-## 🌟 Projects
+## 🛠️ What I'm Good At
 
-Here are a few notable projects I've worked on while on Uni:
+| Category                | Technologies                                                    |
+| ----------------------- | --------------------------------------------------------------- |
+| **Languages**     | Python, C++, JavaScript, MATLAB, Java                           |
+| **Web & Desktop** | React, Next.js, Electron, Express, Vite                         |
+| **Databases**     | MongoDB and SQL based databases: MariaDB, PostgreSQL and SQLite |
 
-1. **[FlashBack (Still on early development, but you can check the repo out)]**: [A workspace to evaluate and create documents for long term memorization and concept connection]
-   - [Go to FlashBack](https://github.com/WeirdCatAFK/Flashback)
-2. **[PinFix for X]**: [A chrome extension that fixes the pinterest save button so it correctly links images from x.com ]
-   - [Go to PinFix for X](https://github.com/WeirdCatAFK/PinFix)
-3. **[Artsy]**: [A bunch of art stuff for art nerds like me (enfasis on nerds)]
-   - [Artsy](https://weirdcatafk.github.io/artsy/)
+## 🌟 Some projects
 
+[FlashBack](https://github.com/WeirdCatAFK/Flashback)** | *Electron, JavaScript*
+A comprehensive study tool currently in development, designed to facilitate knowledge management and long-term retention through structured document creation (still in development, but there's another repository with the proof of concept for the app, currently I am still working things up to make a better interface)
 
-## 📫 Contact
-- **My LinkedIn**: [Daniel Pineda Torres](https://www.linkedin.com/in/daniel-pineda-torres-64a5a4314/)
-- **My Email**: dpineda.dev@gmail.com
-Feel free to send a letter just to chat, I really like talking about anything CS related
-- **My personal Twitter**: [@WeirdCat_AFK](https://x.com/WeirdCat_AFK)
-- **My goodreads account in case you are interested on what I read**: [Goodreads](https://www.goodreads.com/user/show/144393475-daniel)
-- 
+[PinFix for X](https://github.com/WeirdCatAFK/PinFix)** | *JavaScript, Browser API*
+Developed a browser extension to fix UX interoperability issues between Pinterest and X (Twitter), ensuring correct source URL retention for saved media.
+
+[Artsy](https://weirdcatafk.github.io/artsy/)** | *Web Technologies*
+A silly little website made in a day focusing on the explaining of a vision concept and how to improve the skill of matching grey tones in order to better hue (value) understanding.
+
+[3D Stereo Reconstruction For Research Project](https://github.com/WeirdCatAFK/Foper-Python)** | *Computer Vision for research Project*
+A CIICTE (CENTRO DE INVESTIGACIÓN E INNOVACIÓN EN CIENCIAS DE LA COMPUTACIÓN Y TECNOLOGÍA EDUCATIVA) research project where I was lead of the implementation of the code for the 3d Stereo reconstruction implementation of a genetic algorithm
+
+## 📫 Contact Info
+
+* **LinkedIn**: [Daniel Pineda Torres](https://www.linkedin.com/in/dpinedadev/)
+* **Email**: dpineda.dev@gmail.com
+* **My personal Twitter**:  [@WeirdCat_AFK](https://x.com/WeirdCat_AFK)
+* 
+
+## 📖 Books I'm currently reading
+
+<!-- GOODREADS-LIST:START -->
+
+<!-- GOODREADS-LIST:END -->
