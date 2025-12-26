@@ -15,16 +15,16 @@ I am a developer focused on building scalable systems and analyzing complex data
 
 ## 🌟 Some projects
 
-[FlashBack](https://github.com/WeirdCatAFK/Flashback)** | *Electron, JavaScript*
+[FlashBack](https://github.com/WeirdCatAFK/Flashback) | *Electron, JavaScript*
 A comprehensive study tool currently in development, designed to facilitate knowledge management and long-term retention through structured document creation (still in development, but there's another repository with the proof of concept for the app, currently I am still working things up to make a better interface)
 
-[PinFix for X](https://github.com/WeirdCatAFK/PinFix)** | *JavaScript, Browser API*
+[PinFix for X](https://github.com/WeirdCatAFK/PinFix) | *JavaScript, Browser API*
 Developed a browser extension to fix UX interoperability issues between Pinterest and X (Twitter), ensuring correct source URL retention for saved media.
 
-[Artsy](https://weirdcatafk.github.io/artsy/)** | *Web Technologies*
+[Artsy](https://weirdcatafk.github.io/artsy/) | *Web Technologies*
 A silly little website made in a day focusing on the explaining of a vision concept and how to improve the skill of matching grey tones in order to better hue (value) understanding.
 
-[3D Stereo Reconstruction For Research Project](https://github.com/WeirdCatAFK/Foper-Python)** | *Computer Vision for research Project*
+[3D Stereo Reconstruction For Research Project](https://github.com/WeirdCatAFK/Foper-Python) | *Computer Vision for research Project*
 A CIICTE (CENTRO DE INVESTIGACIÓN E INNOVACIÓN EN CIENCIAS DE LA COMPUTACIÓN Y TECNOLOGÍA EDUCATIVA) research project where I was lead of the implementation of the code for the 3d Stereo reconstruction implementation of a genetic algorithm
 
 ## 📫 Contact Info
