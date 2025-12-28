@@ -37,5 +37,5 @@ A CIICTE (CENTRO DE INVESTIGACIÓN E INNOVACIÓN EN CIENCIAS DE LA COMPUTACIÓN 
 ## 📖 Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
-
+- [Being You: A New Science of Consciousness](https://www.goodreads.com/review/show/7536705616?utm_medium=api&utm_source=rss) by Anil Seth (⭐️4.07)
 <!-- GOODREADS-LIST:END -->
