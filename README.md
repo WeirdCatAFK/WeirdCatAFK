@@ -7,13 +7,6 @@ If you are currently reading this, wait a minute for my publication paper to sub
 
 I am a developer focused on building scalable systems and analyzing complex data structures fascinated on learning, our brains and systems. On the end of the road there is only complexity.
 
-## 🛠️ What I'm Good At
-
-| Category                | Technologies                                                    |
-| ----------------------- | --------------------------------------------------------------- |
-| **Languages**     | Python, C++, JavaScript, MATLAB, Java                           |
-| **Web & Desktop** | React, Next.js, Electron, Express, Vite                         |
-| **Databases**     | MongoDB and SQL based databases: MariaDB, PostgreSQL and SQLite |
 
 ## 🌟 Some projects
 
