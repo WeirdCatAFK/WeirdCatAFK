@@ -1,36 +1,36 @@
-
 # Daniel Pineda Torres
 
-**Software Engineering Student | Aspiring Data Scientist**
+**Software Engineering Student · Aspiring Data Scientist**
 
-If you are currently reading this, wait a minute for my publication paper to submit and you'll find yourselve surprised with my next unreleased project.
+I build scalable systems and analyze complex data structures, driven by a deep interest in how brains and machines represent knowledge. Currently finishing a research publication — stay tuned.
 
-I am a developer focused on building scalable systems and analyzing complex data structures fascinated on learning, our brains and systems. On the end of the road there is only complexity.
+> *On the end of the road there is only complexity*
 
+---
 
-## 🌟 Some projects
+## Projects
 
-[FlashBack](https://github.com/WeirdCatAFK/Flashback) | *Electron, JavaScript*
-A comprehensive study tool currently in development, designed to facilitate knowledge management and long-term retention through structured document creation (still in development, but there's another repository with the proof of concept for the app, currently I am still working things up to make a better interface)
+**[FlashBack](https://github.com/WeirdCatAFK/Flashback)** · *Electron, JavaScript*
+A knowledge management tool designed for long-term retention through structured document creation. Built around spaced repetition principles. Under active development,
 
-[PinFix for X](https://github.com/WeirdCatAFK/PinFix) | *JavaScript, Browser API*
-Developed a browser extension to fix UX interoperability issues between Pinterest and X (Twitter), ensuring correct source URL retention for saved media.
+**[PinFix for X](https://github.com/WeirdCatAFK/PinFix)** · *JavaScript, Browser Extension API*
+A browser extension that resolves UX interoperability issues between Pinterest and X (formerly Twitter), preserving correct source URLs when saving media across platforms.
 
-[Artsy](https://weirdcatafk.github.io/artsy/) | *Web Technologies*
-A silly little website made in a day focusing on the explaining of a vision concept and how to improve the skill of matching grey tones in order to better hue (value) understanding.
+**[3D Stereo Reconstruction](https://github.com/WeirdCatAFK/Foper-Python)** · *Python, Computer Vision*
+Research project at CIICTE (Centro de Investigación e Innovación en Ciencias de la Computación y Tecnología Educativa). Led implementation of a stereo reconstruction pipeline using a genetic algorithm for calibration and depth estimation.
 
-[3D Stereo Reconstruction For Research Project](https://github.com/WeirdCatAFK/Foper-Python) | *Computer Vision for research Project*
-A CIICTE (CENTRO DE INVESTIGACIÓN E INNOVACIÓN EN CIENCIAS DE LA COMPUTACIÓN Y TECNOLOGÍA EDUCATIVA) research project where I was lead of the implementation of the code for the 3d Stereo reconstruction implementation of a genetic algorithm
+---
 
-## 📫 Contact Info
+## Contact
 
-* **LinkedIn**: [Daniel Pineda Torres](https://www.linkedin.com/in/dpinedadev/)
-* **Email**: dpineda.dev@gmail.com
-* **My personal Twitter**:  [@WeirdCat_AFK](https://x.com/WeirdCat_AFK)
-* 
+- **LinkedIn** · [Daniel Pineda Torres](https://www.linkedin.com/in/dpinedadev/)
+- **Email** · dpineda.dev@gmail.com
+- **X / Twitter** · [@WeirdCat_AFK](https://x.com/WeirdCat_AFK)
 
-## 📖 Books I'm currently reading
+---
+
+## Currently Reading
 
 <!-- GOODREADS-LIST:START -->
-- [Being You: A New Science of Consciousness](https://www.goodreads.com/review/show/7536705616?utm_medium=api&utm_source=rss) by Anil Seth (⭐️4.07)
+- [Being You: A New Science of Consciousness](https://www.goodreads.com/review/show/7536705616?utm_medium=api&utm_source=rss) — Anil Seth (⭐ 4.07)
 <!-- GOODREADS-LIST:END -->
