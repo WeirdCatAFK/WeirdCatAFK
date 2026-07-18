@@ -2,7 +2,7 @@
 
 **Software Engineering Student · Aspiring Data Scientist**
 
-I build scalable systems and analyze complex data structures, driven by a deep interest in how brains and machines represent knowledge. Currently finishing a research publication — stay tuned.
+I build interesting things. I hope you find them as exciting as I do
 
 > *On the end of the road there is only complexity*
 
@@ -25,8 +25,6 @@ Research project at CIICTE (Centro de Investigación e Innovación en Ciencias d
 
 - **LinkedIn** · [Daniel Pineda Torres](https://www.linkedin.com/in/dpinedadev/)
 - **Email** · dpineda.dev@gmail.com
-- **X / Twitter** · [@WeirdCat_AFK](https://x.com/WeirdCat_AFK)
-
 ---
 
 ## Currently Reading
